@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+F:\axin2\FileName.cpp(17,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\axin2\FileName.cpp(21,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\axin2\FileName.cpp(37,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\axin2\FileName.cpp(44,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\axin2\FileName.cpp(52,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\axin2\FileName.cpp(52,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\axin2\FileName.cpp(52,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\axin2\FileName.cpp(52,10): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\axin2\FileName.cpp(83,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\axin2\FileName.cpp(83,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  axin2.vcxproj -> F:\axin2\x64\Debug\axin2.exe
